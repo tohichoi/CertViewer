@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CertViewer</string>
+    <string name="ok">@android:string/ok</string>
+    <string name="cancel">@android:string/cancel</string>
+    <string name="yes">@android:string/yes</string>
+    <string name="no">@android:string/no</string>
+</resources>
